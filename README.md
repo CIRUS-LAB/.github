@@ -1,4 +1,4 @@
-<img src="https://github.com/CIRUS-LAB/.github/blob/main/intro.jpg">
+
 
 # CIRUS LAB
 
