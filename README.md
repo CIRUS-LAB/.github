@@ -6,15 +6,15 @@
 ```markdown  
 
 - Non profit community
-- Formed By Bharath Krishna
+- Founded by Bharath Krishna 2018.
 
 #Developers
-1. Adithya Krishnan. fal3n.4ngel (Insta)
-2. Bharath Krisha. Th3_nuclear_rebel (Insta)
-3. Abhiragh R. _the0utlaw (Insta)
+1.Bharath Krishna. Director/CEO
+2.Adithya Krishnan. CEO , CTO Machine Learning and Neural Networks
+3. Abhiragh A.R  CTO Gaming and Utilty Softwares
+4. Hafis Mohammed. CTO Cyber Security And Penetration Testing
 
 ```
 
 
 
-[![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CIRUS-LAB)](https://github.com/anuraghazra/github-readme-stats)
