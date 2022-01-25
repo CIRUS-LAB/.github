@@ -2,6 +2,9 @@
 
 
 ```markdown  
+# Lazy af College Students
+## Android Development
+### Python Developers
 
 - Non profit community
 - Founded by Bharath Krishna 2018.
