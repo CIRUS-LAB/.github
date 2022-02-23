@@ -1,18 +1,27 @@
-# CIRUS LAB
+# Q-Tracker Cirus Lab
+
+Q-Tracker is originally a High School Project created by Admins of Cirus Lab.
+It's completly coded in python along with mysql.(Tkinter For GUI)
+
+## Description
+  Q-tracker is a mysql based python program which focuses on database management in Quarantine Centers. It offers a simple GUI solution to add and delete details p new patients ,and also alert on the new details.
+  
 
 
-```markdown  
-# Lazy af College Students
+
+## Cirus Lab
+
+```markdown   
+
+# Python Programming
 ## Android Development
-### Python Developers
+### AI and Web Development
 
 - Non profit community
-- Founded by Bharath Krishna 2018.
+- Formed By Bharath Krishna
 
-# Developers
-1. Bharath Krishna
-2. Adithya Krishnan. 
-3. Abhiragh A.R.     
-4. Hafis Mohammed.  
+#Senior Developers
+1. Adithya Krishnan. fal3n.4ngel Github/ Insta
+2. Bharath Krishna. Th3_nuclear_rebel Insta
 
 ```
