@@ -15,6 +15,7 @@
 3. Abhiragh A.R.     
 4. Hafis Mohammed.
 5. Amodh Anil
-6. Ramanunni R.  
+6. Ramanunni R. 
+7. Fawaaz S. 
 
 ```
