@@ -1,19 +1,3 @@
-# CIRUS LAB
-
-
-```markdown  
-# Lazy af College Students
-
-- Non profit community
-- Founded by Bharath Krishna 2018.
-
-# Developers
-1. Bharath Krishna.
-2. Adithya Krishnan. 
-3. Abhiragh A.R.     
-4. Hafis Mohammed.
-5. Amodh Anil
-6. Ramanunni R. 
-7. Fawaaz S. 
-
-```
+<div align="center">
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/CIRUS-LAB/.github/blob/main/profile/info.svg"></a>
+</div>
