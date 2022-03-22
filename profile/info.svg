@@ -41,7 +41,7 @@
 		  visibility: visible;
 		  height: auto;
 		  width: auto;
-		  animation: hide 10s;
+		  animation: hide 5s;
 		  animation-fill-mode: forwards;
 		}
 
